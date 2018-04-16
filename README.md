@@ -1,6 +1,6 @@
 # rm.sh
 ---
-## Get rid all proxy settings 
+## Get rid of all proxy settings 
 ---
 #### Download the zip and extract then just run:
 ```
