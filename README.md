@@ -4,10 +4,7 @@
 ---
 #### Download the zip and extract then just run:
 ```
-cd Downloads/
-```
-```
-cd rm.sh-master/
+cd Downloads/rm.sh-master/
 ```
 ```
 bash rm.sh
