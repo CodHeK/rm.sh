@@ -9,4 +9,8 @@ cd Downloads/rm.sh-master/
 ```
 bash rm.sh
 ```
+#### Try runnning the following command to check the proxy settings:
+```
+set | grep -i proxy
+```
 

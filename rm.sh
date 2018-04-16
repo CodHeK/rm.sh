@@ -9,6 +9,7 @@ export HTTP_PROXY=""
 export HTTPS_PROXY=""
 export ALL_PROXY=""
 export FTP_PROXY=""
+export socks_proxy=""
 npm config rm proxy
 npm config rm https-proxy
 unset HTTP_PROXY
